@@ -1,6 +1,6 @@
-fastapi==0.104.1
-uvicorn==0.24.0
-instagrapi==2.0.0
-supabase==2.0.0
-python-multipart==0.0.6
-pydantic==2.4.2
+fastapi
+uvicorn
+instagrapi
+supabase
+python-multipart
+pydantic
